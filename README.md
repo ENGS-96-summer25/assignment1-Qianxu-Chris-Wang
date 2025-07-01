@@ -2,8 +2,8 @@
 
 ## Student data
 
-Name: 'YOUR NAME HERE'
-Email: 'YOUR EMAIL HERE'
+Name: 'Qianxu Wang'
+Email: 'qianxu.wang.gr@dartmouth.edu'
 
 Carefully follow the instructions below to setup your assignment repository.
 
